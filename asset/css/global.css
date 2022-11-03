@@ -1,0 +1,29 @@
+.wp-inner{
+    width: 1170px;
+    margin: 0px auto;
+}
+.wp-inner-ft{
+    width: 1185px;
+    margin: 0px auto;
+}
+.fl-left{
+    float: left;
+}
+.fl-right{
+    float: right;
+}
+.fl-none{
+    float: none;
+}
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
+.text-justify{
+    text-align: justify;
+}
